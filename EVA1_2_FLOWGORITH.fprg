@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Eclip"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 05:47:16 PM"/>
+        <attribute name="created" value="RWNsaXA7TVNJOzIwMjMtMDktMDQ7MDU6MTI6NDUgUE07MjAwNw=="/>
+        <attribute name="edited" value="RWNsaXA7TVNJOzIwMjMtMDktMDQ7MDU6NDc6MTYgUE07MTsyMTIx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="mensaje" type="String" array="False" size=""/>
+            <assign variable="mensaje" expression="&quot;Hola mundo&quot;"/>
+            <output expression="mensaje" newline="True"/>
+            <output expression="&quot;Otra Cadena de Texto&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
